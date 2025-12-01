@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.png
+*.jpg
+*.jpeg
+generated_prompt.json
+prompt_*.json
+
+backup/
